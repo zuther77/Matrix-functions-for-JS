@@ -1,4 +1,6 @@
-Contains a Matrix class that takes ( rows , colomns , data = [] ) as input. Written in JS since JS doesn't has matrix funtionals.
+Contains a Matrix class that takes ( rows , colomns , data = [] ) as input. 
+Written in JS since JS doesn't has matrix funtionals.
+
 Matrix class dontains functions like - addition           -> Matrix.add( m1, m2 ) 
                                      - subtraction        -> Matrix.sub( m1, m2 )
                                      - multiplication     -> Matrix.mul( m1, m2 ) 
